@@ -48,6 +48,21 @@ a:hover {
     text-decoration: underline;
 }
 
+a.order {
+    display: inline-block;
+    color: white;
+    margin: auto;
+    padding: 8px 16px;
+    background-color: #ed2024;
+    border-radius: 4px;
+}
+
+a.order:hover {
+    text-decoration: none;
+    background-color: #ed2024ba;
+}
+
+
 .break  {
     margin-bottom: 20px;
 }
